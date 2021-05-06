@@ -20,16 +20,4 @@ Thats it to run it just go again in to idena folder and run
 ./idena-cli.sh
 ```
 # Output example
-```
-API KEY:123
-Welcome to Idena-CLI wallet v0.1
-Made by Toni.Dev, Donation:0x6357cdf056b0dca75a14094987fa7eabbd78be5f
-Coinbase Address: 0x6357cdf056b0dca75a14094987fa7eabbd78be5f
-Balance: 809.71472089555326025
-Is it syncing: False
-Node Version: 0.25.3
-1.SEND IDNA
-2.START MINING
-3.STOP MINING
-4.EXIT
-```
+![image](https://user-images.githubusercontent.com/62844491/117337261-74f14700-ae9d-11eb-92b3-8e275fa5801a.png)
