@@ -6,10 +6,11 @@ If your tunnel does not work, and you need to get to your funds this is the best
 It only takes 15 sec to install it and send frist transaction.
 # how to install it
 ```
-   1. wget https://github.com/Toni-d-e-v/Idena-cli-wallet
-   2. cd Idena-cli-wallet
-   3. chmod +x ./idena-cli.sh
-   4. ./idena-cli.sh
+   1. sudo apt-get install python3
+   2. wget https://github.com/Toni-d-e-v/Idena-cli-wallet
+   3. cd Idena-cli-wallet
+   4. chmod +x ./idena-cli.sh
+   5. ./idena-cli.sh
 ```
 Thats it to run it just go again in to idena folder and run
 ```
