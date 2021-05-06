@@ -1,4 +1,5 @@
 # Idena-cli-wallet
+you need python 3.8!
 Donation ```0x6357cdf056b0dca75a14094987fa7eabbd78be5f```
 ## What it can do
 It can send idna, it can start or stop you node mining and much more.
