@@ -10,7 +10,7 @@ It only takes 15 sec to install it and send frist transaction.
 login in to your VPS
 ```
    1. sudo apt-get install python3
-   2. wget https://github.com/Toni-d-e-v/Idena-cli-wallet
+   2. git clone https://github.com/Toni-d-e-v/Idena-cli-wallet
    3. cd Idena-cli-wallet
    4. chmod +x ./idena-cli.sh
    5. ./idena-cli.sh
