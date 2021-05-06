@@ -7,6 +7,7 @@ This is unofficial Idena CLI wallet made by toni.dev.
 If your tunnel does not work, and you need to get to your funds this is the best way.
 It only takes 15 sec to install it and send frist transaction.
 # how to install it
+login in to your VPS
 ```
    1. sudo apt-get install python3
    2. wget https://github.com/Toni-d-e-v/Idena-cli-wallet
