@@ -4,7 +4,7 @@ import requests
 class IdenaAPI:
 
     _host = "localhost"
-    _port = "9999"
+    _port = "9009"
     _timeout = 3
     _api_key = None
 
