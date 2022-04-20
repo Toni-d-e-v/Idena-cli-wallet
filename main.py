@@ -26,19 +26,22 @@ def home_act1():
                 result = api.send(myaddr["result"], sendto, amount)
                 print("TX ID:", result["result"], "Sended to:", sendto, "Amount:", amount)
             else:
-                exit()
+                action()
 def home_act2():
     start = api.go_online()
-    print("Started Mining")
+    print("Started Mining", start)
+    action()
 def home_act3():
     stop = api.go_offline()
-    print("Stoped Mining")
+    print("Stoped Mining", stop)
+    action()
 def home_act5():
     print("You closed Idena Cli Wallet")
     exit()
 def home_act4():
     tx = api.transactions(myaddr["result"], 1)
     print("Last Transaction:", "Hash:", tx["result"]["transactions"][0]["hash"], "To:", tx["result"]["transactions"][0]["to"], "Amount:", tx["result"]["transactions"][0]["amount"])
+    action()
 def action():
     loop = True
     while loop:
